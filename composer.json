@@ -1,6 +1,6 @@
 {
-    "name": "coraxster/flysystem-aws-s3-v3-minio",
-    "description": "Flysystem adapter for the AWS S3 SDK v3.x, forked for minio support",
+    "name": "alirezabahram7/flysystem-aws-s3-v3-minio",
+    "description": "Flysystem adapter for the AWS S3 SDK v3.x, forked for minio support, and laravel 9 support",
     "license": "MIT",
     "authors": [
         {
